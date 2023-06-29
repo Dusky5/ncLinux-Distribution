@@ -1,6 +1,12 @@
 # ncLinux-Distribution
 ZLI Abschlussprojekt, eine eigene Linux Distribution
+
 ![Logo](IMAGES/Logo.jpg)
+
+## Beschreibung
+Meine Projektidee war, eine neue Linux Distribution zu erstellen, die auf die Arbeit der Plattformentwickler 
+abgestimmt ist. Diese Distribution, soll einem beim Erstellen von VMs Arbeit abnehmen, weil die wichtigsten 
+Programme und Pakete schon mit der Installation der Distribution mitgeliefert werden. 
 
 ## Vorinstallierte Programme auf dem System
 - wireshark
