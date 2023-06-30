@@ -1,12 +1,15 @@
-# ncLinux-Distribution
-ZLI Abschlussprojekt, eine eigene Linux Distribution
+# ncLinux
+Die optimierte, auf Ubuntu basierende Distribution, die dir bei der Arbeit mit Linux Zeit spart
 
 ![Logo](IMAGES/Logo.jpg)
 
 ## Beschreibung
-Meine Projektidee war, eine neue Linux Distribution zu erstellen, die auf die Arbeit der Plattformentwickler 
-abgestimmt ist. Diese Distribution, soll einem beim Erstellen von VMs Arbeit abnehmen, weil die wichtigsten 
+ZLI Abschlussprojekt
+ncLinux ist eine neue Linux Distribution, die auf die Arbeit der Plattformentwickler 
+abgestimmt ist. Diese Distribution, nimmt Plattformentwickler beim Erstellen von VMs Arbeit ab, weil die wichtigsten 
 Programme und Pakete schon mit der Installation der Distribution mitgeliefert werden. 
+
+ncLinux basiert auf apt, dem Ubuntu Linux Paketmanager, der den Zugriff auf eine Vielzahl von Paketen aus den Ubuntu Repositories ermöglicht.
 
 ## Vorinstallierte Programme auf dem System
 - wireshark
