@@ -12,6 +12,12 @@ Programme und Pakete schon mit der Installation der Distribution mitgeliefert we
 
 ncLinux basiert auf apt, dem Ubuntu Linux Paketmanager, der den Zugriff auf eine Vielzahl von Paketen aus den Ubuntu Repositories ermöglicht.
 
+## Funktionen meines Systems
+- Vorinstallierte Programme
+- Angepasster Standarthintergrund
+- Auswahlmenü meiner selbst gestalteten Hintergrundbilder
+- Aktiviertes GRUB mit Benutzerdefiniertem Design
+
 ## Vorinstallierte Programme auf dem System
 - wireshark
 - sudo (Vorinstalliert)
