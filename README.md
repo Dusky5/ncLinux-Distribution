@@ -81,6 +81,9 @@ Herzlichen Glückwunsch! Du hast erfolgreich ncLinux in einer virtuellen Maschin
 
 Ich hoffe, dass diese Installationsanleitung hilfreich für dich ist. Wenn du Fragen, Probleme oder eine Rezension hast, zögere nicht, und schreibe mir auf Discord 
 
+## Kontaktmöglichkeit
+
+Bei Anliegen, Fragen, wünschen, Rezensionen oder Kritik wäre ich jederzeit über Discord zu erreichen
 **Discord Name:**
 - dusky5
 
