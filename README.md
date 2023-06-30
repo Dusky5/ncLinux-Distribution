@@ -4,7 +4,8 @@ Die optimierte, auf Ubuntu basierende Distribution, die dir bei der Arbeit mit L
 ![Logo](IMAGES/Logo.jpg)
 
 ## Beschreibung
-ZLI Abschlussprojekt
+Im Abschlussprojekt des ZLI Zürichs entschied ich mich dazu meine eigene Ubuntu basierte Distribution namens ncLinux zu erstellen.
+
 ncLinux ist eine neue Linux Distribution, die auf die Arbeit der Plattformentwickler 
 abgestimmt ist. Diese Distribution, nimmt Plattformentwickler beim Erstellen von VMs Arbeit ab, weil die wichtigsten 
 Programme und Pakete schon mit der Installation der Distribution mitgeliefert werden. 
